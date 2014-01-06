@@ -15,7 +15,7 @@ Existe uma tela para cadastrar Abastecimento, onde o usuário informa os seguint
 -KM no Abastecimento;
 -Quantidade Litros;
 -Valor;
-Data;
+-Data;
 
 Existe uma tela para listagem do abastecimento, onde é exibido apenas os abastecimentos do mês corrente.
 Existe uma tela para ver o desempenho e abastecimentos de mês anteriores, o usuário informa a data inicial e a data final para exibição da informação.
